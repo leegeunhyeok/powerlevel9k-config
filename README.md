@@ -1,2 +1,2 @@
-# zsh-config
-💻 My zsh config
+# powerlevel9k-config
+💻 My powerlevel9k config
