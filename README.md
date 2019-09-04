@@ -21,6 +21,11 @@
 
 ## How to apply
 
+### Required
+- zsh + [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k)
+
+### Apply
 1. Copy content `.zshrc` of this repository
 2. Paste your `~/.zshrc` on top
 3. Apply
