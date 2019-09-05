@@ -1,7 +1,12 @@
 # Using powerlevel9k
 ZSH_THEME="powerlevel9k/powerlevel9k"
 
+# If you using powerlevel10k, follow this
+# ZSH_THEME="powerlevel10k/powerlevel10k"
+
+
 # ========== Powerlevel9k config ========== #
+# ============= Common 9k, 10k ============ #
 POWERLEVEL9K_MODE='nerdfont-complete'
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
 POWERLEVEL9K_PROMPT_ADD_NEWLINE=true

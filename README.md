@@ -1,5 +1,5 @@
 # powerlevel9k-config
-💻 My powerlevel9k config
+💻 My powerlevel9k(or powerlevel10k) config
 
 ## Preview
 
@@ -23,7 +23,7 @@
 
 ### Required
 - zsh + [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-- [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k)
+- [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) or [powerlevel10k (faster than 9k)](https://github.com/romkatv/powerlevel10k)
 
 ### Apply
 1. Copy content `.zshrc` of this repository
